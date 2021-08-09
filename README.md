@@ -1,2 +1,2 @@
-# WEB3BRIDGE-COHORT-V
-Weekly Assignment 
+## WEB3BRIDGE-COHORT-V
+Task Week6 
