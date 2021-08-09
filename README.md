@@ -1,2 +1,3 @@
 ## WEB3BRIDGE-COHORT-V
-A repository for weekly tasks
+A contract that contains hash functions which takes in parameters and return the hash values
+
